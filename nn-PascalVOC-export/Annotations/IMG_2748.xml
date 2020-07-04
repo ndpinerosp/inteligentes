@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_2748.JPG</filename>
+    <path>nn-PascalVOC-export/Annotations/IMG_2748.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4752</width>
+        <height>3168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2035.0728476821193</xmin>
+        <ymin>2643.4966887417218</ymin>
+        <xmax>2433.6953642384105</xmax>
+        <ymax>3031.6291390728475</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2947.708609271523</xmin>
+        <ymin>781.5099337748345</ymin>
+        <xmax>3309.615894039735</xmax>
+        <ymax>1127.682119205298</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2884.7682119205297</xmin>
+        <ymin>1872.476821192053</ymin>
+        <xmax>3377.801324503311</xmax>
+        <ymax>2349.774834437086</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1998.3576158940398</xmin>
+        <ymin>451.07284768211923</ymin>
+        <xmax>2391.7350993377486</xmax>
+        <ymax>818.225165562914</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>361.9072847682119</xmin>
+        <ymin>1484.3443708609273</ymin>
+        <xmax>755.2847682119206</xmax>
+        <ymax>1888.2119205298013</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>655.6291390728477</xmin>
+        <ymin>2082.2781456953644</ymin>
+        <xmax>1059.4966887417218</xmax>
+        <ymax>2496.635761589404</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1353.2185430463576</xmin>
+        <ymin>844.4503311258278</ymin>
+        <xmax>2706.437086092715</xmax>
+        <ymax>2171.4437086092717</ymax>
+    </bndbox>
+</object>
+</annotation>

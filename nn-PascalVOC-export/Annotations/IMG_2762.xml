@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_2762.JPG</filename>
+    <path>nn-PascalVOC-export/Annotations/IMG_2762.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4752</width>
+        <height>3168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1804.291390728477</xmin>
+        <ymin>1552.5298013245033</ymin>
+        <xmax>3487.94701986755</xmax>
+        <ymax>2648.7417218543046</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1195.8675496688743</xmin>
+        <ymin>493.0331125827815</ymin>
+        <xmax>2580.556291390729</xmax>
+        <ymax>1347.973509933775</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.245033112582782</xmin>
+        <ymin>1033.271523178808</ymin>
+        <xmax>1405.6688741721855</xmax>
+        <ymax>2019.337748344371</ymax>
+    </bndbox>
+</object><object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>367.1523178807947</xmin>
+        <ymin>10.490066225165563</ymin>
+        <xmax>1751.841059602649</xmax>
+        <ymax>692.3443708609273</ymax>
+    </bndbox>
+</object>
+</annotation>
