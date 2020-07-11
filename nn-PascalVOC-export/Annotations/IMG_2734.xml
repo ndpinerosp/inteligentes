@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG_2734.JPG</filename>
+    <path>nn-PascalVOC-export/Annotations/IMG_2734.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4752</width>
+        <height>3168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2118.993377483444</xmin>
+        <ymin>1153.9072847682119</ymin>
+        <xmax>2549.086092715232</xmax>
+        <ymax>1762.3311258278145</ymax>
+    </bndbox>
+</object>
+</annotation>

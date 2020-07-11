@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20110817_206.jpg</filename>
+    <path>nn-PascalVOC-export/Annotations/20110817_206.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2560</width>
+        <height>1440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>qr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>896.1426978818283</xmin>
+        <ymin>123.41584158415841</ymin>
+        <xmax>2111.928651059086</xmax>
+        <ymax>1383.7722772277225</ymax>
+    </bndbox>
+</object>
+</annotation>
